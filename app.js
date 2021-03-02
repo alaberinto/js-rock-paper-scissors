@@ -48,4 +48,3 @@ function playSingleRound(playerSelection, computerSelection) {
 
 let playerPlay = prompt("Choose: Rock, Paper, or Scissors.");
 playerPlay = changeCase(playerPlay);
-console.log(playerPlay);
